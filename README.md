@@ -3,7 +3,7 @@ CxDevSecOps lab is ....
 
 ## Get Ready
 * [Requirements](#Requirements)
-  * [Software](#software)
+	* [Software](#software)
 	* [Hardware](#hardware)
 * [Installation](#Installation)
   * [Windows](#windows)
@@ -14,7 +14,6 @@ CxDevSecOps lab is ....
 
 * [Vagrant](https://www.vagrantup.com/downloads.html)
 * [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-* [Ansible](http://docs.ansible.com/ansible/latest/intro_installation.html#installation)
 
 ### Hardware
 * Atleast 4GB of RAM for the virtual machines.
